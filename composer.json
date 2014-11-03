@@ -1,5 +1,6 @@
 {
     "name": "veritrans/veritrans-php",
+    "version": "1.0.0",
     "description": "PHP Wraper for Veritrans VT-Web Payment API.",
     "homepage": "https://veritrans.co.id",
     "type": "library",
